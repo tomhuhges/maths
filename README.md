@@ -3,7 +3,7 @@
 ### core maths
 
 - **proof**  
-– **algebra and functions**  
+- **algebra and functions**  
   - C1
     - basic algebra
     - indices
@@ -22,7 +22,7 @@
     - modulus functions, equations and inequalities
   - C4
     - partial fractions  
-– **coordinate geometry in the (x, y) plane**  
+- **coordinate geometry in the (x, y) plane**  
   - C1
     - gradient
     - lines
@@ -31,7 +31,7 @@
     - circles
   - C4
     - parametric equations  
-– **sequences and series**  
+- **sequences and series**  
   - C1
     - sequence notation
     - arithmetic progressions
@@ -40,7 +40,7 @@
     - binomial expansion
   - C4
     - more binomial expansion  
-– **trigonometry**  
+- **trigonometry**  
   - C1
     - introduction
   - C2
@@ -59,12 +59,12 @@
     - triple angle type
     - factor formulae
     - harmonic formulae  
-– **exponentials and logarithms**  
+- **exponentials and logarithms**  
   - C2
     - introduction
   - C3
     - e<sup>x</sup> and natural log functions  
-– **differentiation**  
+- **differentiation**  
   - C1
     - introduction
     - tangents and normals
@@ -83,7 +83,7 @@
     - implicit functions
     - connected rates of change
     - first order lineal differentials  
-– **integration**  
+- **integration**  
   - C1
     - introduction
     - equations of curves
@@ -100,7 +100,7 @@
     - integration by parts
     - volumes of revolution
     - more numerical integration  
-– **vectors**  
+- **vectors**  
   - C4
     - introduction
     - scalar product
