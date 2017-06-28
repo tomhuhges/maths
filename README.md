@@ -2,8 +2,8 @@
 
 ### core maths
 
-- **proof**
-– **algebra and functions**
+- **proof**  
+– **algebra and functions**  
   - C1
     - basic algebra
     - indices
@@ -21,8 +21,8 @@
     - graph transformations and asymptotes
     - modulus functions, equations and inequalities
   - C4
-    - partial fractions
-– **coordinate geometry in the (x, y) plane**
+    - partial fractions  
+– **coordinate geometry in the (x, y) plane**  
   - C1
     - gradient
     - lines
@@ -30,8 +30,8 @@
   - C2
     - circles
   - C4
-    - parametric equations
-– **sequences and series**
+    - parametric equations  
+– **sequences and series**  
   - C1
     - sequence notation
     - arithmetic progressions
@@ -39,8 +39,8 @@
     - geometric series
     - binomial expansion
   - C4
-    - more binomial expansion
-– **trigonometry**
+    - more binomial expansion  
+– **trigonometry**  
   - C1
     - introduction
   - C2
@@ -58,13 +58,13 @@
     - half angle type
     - triple angle type
     - factor formulae
-    - harmonic formulae
-– **exponentials and logarithms**
+    - harmonic formulae  
+– **exponentials and logarithms**  
   - C2
     - introduction
   - C3
-    - e<sup>x</sup> and natural log functions
-– **differentiation**
+    - e<sup>x</sup> and natural log functions  
+– **differentiation**  
   - C1
     - introduction
     - tangents and normals
@@ -82,8 +82,8 @@
     - parametric functions
     - implicit functions
     - connected rates of change
-    - first order lineal differentials
-– **integration**
+    - first order lineal differentials  
+– **integration**  
   - C1
     - introduction
     - equations of curves
@@ -99,8 +99,8 @@
     - integration by inspection
     - integration by parts
     - volumes of revolution
-    - more numerical integration
-– **vectors**
+    - more numerical integration  
+– **vectors**  
   - C4
     - introduction
     - scalar product
