@@ -2,32 +2,32 @@
 
 ### Multiplying indices
 
-just add the powers: `x<sup>m</sup>x<sup>n</sup> = x<sup>n</sup>+m`
+just add the powers: `xᵐxⁿ = xⁿ⁺ᵐ`
 
-**2<sup>3</sup> x 2<sup>2</sup>**
+**2³ x 2²**
 
 ```
 = (2 x 2 x 2) x (2 x 2)
 
-= 2<sup>5</sup>
+= 2⁵
 ```
 
-**a<sup>5</sup> x a<sup>4</sup>**
+**a⁵ x a⁴**
 
 ```
-= a<sup>9</sup>
+= a⁹
 ```
 
-**3x<sup>2</sup> x 5x<sup>3</sup>**
+**3x² x 5x³**
 
 ```
-= 15x<sup>5</sup>
+= 15x⁵
 ```
 
-**2x<sup>2</sup>y<sup>3</sup> x 3xy<sup>2</sup>**
+**2x²y³ x 3xy²**
 
 ```
-= 6x<sup>3</sup>y<sup>5</sup>
+= 6x³y⁵
 ```
 
 ----
