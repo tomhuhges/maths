@@ -1,4 +1,4 @@
-1. Identity or equation - what is the difference?
+### 1. Identity or equation - what is the difference?
 
 ----
 
@@ -58,3 +58,40 @@
 ----
 
 ### 10. Fractional linear equations
+
+**x/3 = 4**
+
+```
+∴ x = 4 x 3
+∴ x = 12
+```
+
+**8/x = 4**
+
+```
+∴ 8 = 4x
+∴ 8/4 = x
+∴ 2 = x
+∴ x = 2
+```
+
+**(5x - 3)/4 = 2**
+
+```
+∴ 5x - 3 = 2 x 4
+∴ 5x - 3 = 8
+∴ 5x = 11
+∴ x = 11/5
+∴ x = 2 1/5
+```
+
+**3 = (15x + 2)/4x**
+
+```
+∴ 4x x 3 = 15x + 2
+∴ 12x = 15x + 2
+∴ 0 = 3x + 2
+∴ -2 = 3x
+∴ -2/3 = x
+∴ x = -2/3
+```
