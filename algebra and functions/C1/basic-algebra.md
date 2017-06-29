@@ -173,9 +173,10 @@ lowest common multiple = 10
 ∴ 4x - 7 = 10((x - 3)/5)
 ∴ 4x - 7 = 2(x - 3)
 ∴ 4x - 7 = 2x - 6
-∴     4x = 3x + 1
+∴     4x = 2x + 1
+∴     2x = 1
 
-∴      x = 1
+∴      x = 1/2
 ```
 
 **(3x - 2)/4 - (x - 2)/3 = (2x - 1)/6**
@@ -183,9 +184,38 @@ lowest common multiple = 10
 ```
 lowest common multiple = 12
 ∴ 3(3x - 2) - 4(x - 2) = 2(2x - 1)
-∴      9x - 6 - 4x - 8 = 4x - 2
-∴              5x - 14 = 4x - 2
-∴                   5x = 4x + 12
+∴      9x - 6 - 4x + 8 = 4x - 2
+∴               5x + 2 = 4x - 2
+∴                   5x = 4x - 4
 
-∴                    x = 12
+∴                    x = - 4
+```
+
+Equations with two fractions using x in the denominator
+
+**3/x = 5/(x + 2)**
+
+```
+lowest common multiple is the product of the two denominators
+∴ x(x + 2)(3/x) = x(x + 2)(5/(x + 2)))
+∴      (x + 2)3 = x(5)
+∴        3x + 6 = 5x
+∴             6 = 2x
+∴             3 = x
+
+∴             x = 3
+```
+
+**7/(5x - 3) = 2/(x + 1)**
+
+```
+∴ (5x - 3)(x + 1)(7/(5x - 3)) = (5x - 3)(x + 1)(2/(x + 1))
+∴                    (x + 1)7 = (5x - 3)2
+∴                      7x + 7 = 10x - 6
+∴                     7x + 13 = 10x
+∴                          13 = 3x
+∴                        13/3 = x
+∴                       4 1/3 = x
+
+∴                           x = 4 1/3
 ```
