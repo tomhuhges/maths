@@ -103,14 +103,56 @@ negative indices refer to fractions: `x⁻ⁿ = 1/xⁿ`
 **x³y²/xy⁵**
 
 ```
-= x²y⁻³ or x²(1/y³)
+= x²y⁻³
+= x²(1/y³)
 = x²/y³
 ```
 
 **12x³y²/14xy³z**
 
 ```
-= (6/7)(x²y⁻¹/z)
-= (6/7)(x²/z)(1/y)
+= 6x²y⁻¹/7z
+= 6x²(1/y)/7z
 = 6x²/7yz
 ```
+
+----
+
+### Fractions to negative indices
+
+when a fraction is powered to a negative index, we can invert the fraction and change the index to positive.
+
+following the rule for negative indices, `x⁻ⁿ = 1/xⁿ`:
+
+```
+(2/3)⁻² = 1/(2/3)²
+        = 1/(2²/3²)
+        = 3²/2²
+        = (3/2)²
+```
+
+so `(x/y)⁻ⁿ = (y/x)ⁿ`
+
+**(3 1/2)(x³)⁻²**
+
+```
+= (7/2)(x³)⁻²
+= (7x³/2)⁻²
+= (2/7x³)²
+= 4/49x⁶
+
+```
+
+**(2x⁴/5y)⁻³**
+
+```
+= (5y/2x⁴)³
+= (5y)³/(2x⁴)³
+= 125y³/8x¹²
+```
+
+----
+
+### Rational indices
+
+...
